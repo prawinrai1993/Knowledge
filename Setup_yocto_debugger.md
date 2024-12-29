@@ -111,9 +111,6 @@ nohup gdbserver :1234 /usr/bin/example > gdbserver.log 2>&1 &
 ### Set Breakpoints
 Set breakpoints in the VS Code editor and ensure they are hit when the application is running.
 
-For more details, refer to the provided documentation links:
-- [VS Code Debugging Setup](http://192.168.0.80:6875/link/3#bkmrk-%7B%C2%A0-%C2%A0-%22version%22%3A-%220.2)
-- [Launching gdbserver](http://192.168.0.80:6875/link/5#bkmrk-launch-gdbserver-on-)
 
 
 
