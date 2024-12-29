@@ -50,7 +50,4 @@ Download the PetaLinux installer from the following link:
    make
    ```
 
-For more details, refer to the documentation linked below:
-
-- [Compilation Steps](http://192.168.0.80:6875/link/6#bkmrk-%C2%A0-5)
 
